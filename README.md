@@ -5,13 +5,13 @@ A collection of agent skills for Claude Code and other AI agents.
 ## Install
 
 ```bash
-npx skills add philipmattha/skills
+npx skills add philli-philip/skills
 ```
 
 Or install a specific skill:
 
 ```bash
-npx skills add philipmattha/skills --skill prd-ux-analysis
+npx skills add philli-philip/skills --skill prd-ux-analysis
 ```
 
 ## Skills
