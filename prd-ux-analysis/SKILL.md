@@ -1,6 +1,6 @@
 ---
 name: prd-ux-analysis
-description: "Use this skill whenever you have a PRD, product brief, or feature spec that needs a UX design review before work begins. It analyses the document through the lens of a senior UX designer using the double-diamond model — specifically the Discover and Define phases. It extracts Jobs to be Done, surfaces UX gaps and open questions, flags assumption risks, and produces a team-ready briefing on what needs to happen before design can start. Trigger it when a user shares a PRD and asks for feedback, a design review, UX gaps, or wants to know what's missing before the design phase."
+description: "Use this skill whenever you have a PRD, product brief, or feature spec that needs a UX design review before work begins. It analyses the document through the lens of a senior UX designer using the double-diamond model — specifically the problem discover phase. It extracts Jobs to be Done, surfaces UX gaps and open questions, flags assumption risks, and produces a team-ready briefing on what needs to happen before design can start. Trigger it when a user shares a PRD and asks for feedback, a design review, UX gaps, or wants to know what's missing before the define phase."
 ---
  
 # PRD → UX Analysis (Discover → Define)
